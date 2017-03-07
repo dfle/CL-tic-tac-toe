@@ -1,6 +1,6 @@
 # CL-tic-tac-toe
 
-This was written within one hour.
+This and this README were written within one hour.
 
 To run this file 
 - `cd` into the folder
